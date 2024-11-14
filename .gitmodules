@@ -1,0 +1,3 @@
+[submodule "public/Loot-assets"]
+  	path = public/Loot-assets
+  	url =  https://github.com/KimhabOrk/Loot-assets
